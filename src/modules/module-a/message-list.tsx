@@ -19,7 +19,7 @@ class LoginFooter extends Component<iProps> {
 		if (typeof something === 'string') {
 			return something.length;
 		}
-		const aa = {
+		var aa = {
 			aaa: 11111,
 			bbb: 22222,
 		};
