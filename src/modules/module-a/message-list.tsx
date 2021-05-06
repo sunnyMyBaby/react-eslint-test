@@ -23,7 +23,7 @@ class LoginFooter extends Component<iProps> {
 			aaa: 11111,
 			bbb: 22222,
 		};
-		console.log(aa);
+		// console.log(aa);
 		return something.toString().length;
 	}
 
