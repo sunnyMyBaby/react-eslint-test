@@ -1,0 +1,10 @@
+node_modules/
+config/
+dist/
+test
+src/test1.js
+build/
+**/*.md
+**/*.svg
+**/*.jpeg
+**/*.png
