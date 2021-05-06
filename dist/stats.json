@@ -6,9 +6,9 @@
     "\nsrc/modules/module-b/message-list.tsx\n  \u001b[1mLine 18:5:\u001b[22m  Unexpected console statement  \u001b[33m\u001b[4mno-console\u001b[24m\u001b[39m\n\n"
   ],
   "version": "4.44.2",
-  "hash": "e2085ef975ff2a43a0c6",
-  "time": 52,
-  "builtAt": 1620295067830,
+  "hash": "b36836e35efea2401792",
+  "time": 56,
+  "builtAt": 1620296255784,
   "publicPath": "/",
   "outputPath": "/Users/yangguang/Documents/Study/my-app/dist",
   "assetsByChunkName": {
@@ -647,7 +647,7 @@
           "index2": 45,
           "size": 4198,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -756,7 +756,7 @@
           "index2": 49,
           "size": 3667,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -995,7 +995,7 @@
           "index2": 46,
           "size": 3014,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -6442,7 +6442,7 @@
       "index2": 45,
       "size": 4198,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6551,7 +6551,7 @@
       "index2": 49,
       "size": 3667,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6790,7 +6790,7 @@
       "index2": 46,
       "size": 3014,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [

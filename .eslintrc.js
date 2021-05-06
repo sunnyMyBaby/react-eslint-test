@@ -36,6 +36,6 @@ module.exports = {
     'prettier/prettier': [
       'error',
       { semi: true, useTabs: false, printWidth: 100, trailingComma: 'none' }
-    ] // 使用分号
+    ]
   }
 };
