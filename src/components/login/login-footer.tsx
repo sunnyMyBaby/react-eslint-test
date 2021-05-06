@@ -1,3 +1,5 @@
+/** @format */
+
 import React, { Component } from 'react';
 
 interface aaa {
@@ -9,13 +11,13 @@ class loginFooter extends Component<aaa, aaa> {
   constructor(props: any) {
     super(props);
     this.state = {
-      bbb: '11',
+      bbb: '11'
     };
   }
 
   componentDidMount() {
     this.setState({
-      bbb: 'aaa',
+      bbb: 'aaa'
     });
   }
 

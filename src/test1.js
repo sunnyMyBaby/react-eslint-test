@@ -1,3 +1,5 @@
+/** @format */
+
 // var b = 'aaa'
 // console.log(b)
 // function AAA() {

@@ -10,22 +10,19 @@ class loginFooter extends Component<aaa> {
     this.state = {};
   }
 
-  aaaaaaaaaa() {
-    // const xx = {
-    // 	aa_aaa: 'aaa',
-    // }
-    // console.log(xx)
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa() {
+    const xx = {
+      a: 'xxx',
+      aa_aaa: 'aaa'
+    };
+    console.log(xx);
   }
 
   render() {
     return (
       <div
-        onClick={this.aaaaaaaaaa}
-        className='foo'
-        style={{
-          height: '110000000px',
-          width: '100000000px',
-        }}>
+        onClick={this.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+        className='aa'>
         aaa
       </div>
     );

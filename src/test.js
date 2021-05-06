@@ -1,3 +1,5 @@
+/** @format */
+
 // var b = 'aaa'
 // console.log(b)
 // function AAA() {
@@ -8,7 +10,10 @@
 // const foo = array[0];
 // const
 // var foo = array[someIndex];
-
+const aaa = (x) => {
+  console.log(111, x);
+};
+aaa(222);
 const AAA = 'aaa';
 
 // Point();
