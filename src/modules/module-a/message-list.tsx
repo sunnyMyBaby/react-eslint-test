@@ -4,8 +4,8 @@ import React, { Component } from 'react';
 import './message-list.css';
 
 interface iProps {
-  name: string;
-  age: number;
+      name: string;
+        age: number;
   height?: number;
   [propName: string]: any;
   readonly x: number;
