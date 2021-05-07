@@ -16,7 +16,7 @@ class loginFooter extends Component<aaa> {
     //   aa_aa: 'aaa'
     // };
     // console.log(xxaa);
-         const a = 'xxx';
+    const a = 'xxx';
     console.log(a);
   }
 
