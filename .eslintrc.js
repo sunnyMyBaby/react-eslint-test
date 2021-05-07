@@ -7,7 +7,8 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:prettier/recommended'
   ],
-  plugins: ['@typescript-eslint', 'react'], // 插件
+  plugins: ['@typescript-eslint', 'react', 'jsx-a11y'], // 插件
+  // plugins: ['react', 'babel', 'jsx-a11y', '@typescript-eslint'],
   rules: {
     //  0 = 允许 1 = 告警  2 = 错误
     '@typescript-eslint/no-unused-vars': 2, // 通过 禁止使用未使用的变量   开发环境告警-生产环境错误
@@ -35,7 +36,12 @@ module.exports = {
     'func-style': 2,
     'prettier/prettier': [
       'error',
-      { semi: true, useTabs: false, printWidth: 100, trailingComma: 'none' }
+      {
+        semi: true,
+        useTabs: false,
+        printWidth: 100,
+        trailingComma: 'none'
+      }
     ]
   }
 };

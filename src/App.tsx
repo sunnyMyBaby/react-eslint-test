@@ -26,8 +26,8 @@ class App extends Component<any, any> {
   }
 
   render(): JSX.Element {
-    const { name = '' } = this.state;
-    const arr = [1, 2, 3];
+          const { name = '' } = this.state;
+            const arr = [1, 2, 3];
     return (
       <div>
         <img src={logo} alt='' />
