@@ -1,12 +1,12 @@
 {
-  "errors": [
-    "\nsrc/App.tsx\n  \u001b[1mLine 3:41:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 4:58:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 5:30:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 6:19:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 7:45:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 12:2:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 16:17:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 19:6:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 29:37:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 30:26:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 43:42:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 47:12:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 50:6:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 53:19:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n\nsrc/index.tsx\n  \u001b[1mLine 3:26:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 4:33:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 5:24:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 6:48:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 7:21:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 15:2:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 20:18:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n\nsrc/modules/module-b/message-list.tsx\n  \u001b[1mLine 1:41:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 4:14:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 9:17:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 10:20:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 28:6:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 31:27:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n\nsrc/reportWebVitals.ts\n  \u001b[1mLine 3:43:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 8:26:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 9:26:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 10:26:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 11:26:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 12:27:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 13:7:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 15:2:\u001b[22m   Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n  \u001b[1mLine 17:31:\u001b[22m  Insert `;`  \u001b[31m\u001b[4mprettier/prettier\u001b[24m\u001b[39m\n\nSearch for the \u001b[4m\u001b[31mkeywords\u001b[39m\u001b[24m to learn more about each error."
+  "errors": [],
+  "warnings": [
+    "\nsrc/modules/module-b/message-list.tsx\n  \u001b[1mLine 20:5:\u001b[22m  Unexpected console statement  \u001b[33m\u001b[4mno-console\u001b[24m\u001b[39m\n\n"
   ],
-  "warnings": [],
   "version": "4.44.2",
-  "hash": "444a011ad69872308079",
-  "time": 448,
-  "builtAt": 1620376820762,
+  "hash": "376de671464384e6cd7c",
+  "time": 7622,
+  "builtAt": 1620452254723,
   "publicPath": "/",
   "outputPath": "/Users/yangguang/Documents/Study/my-app/dist",
   "assetsByChunkName": {
@@ -26,23 +26,21 @@
   "assets": [
     {
       "name": "asset-manifest.json",
-      "size": 639,
+      "size": 672,
       "chunks": [],
       "chunkNames": [],
       "info": {
-        "size": 639
+        "size": 672
       },
       "emitted": true
     },
     {
-      "name": "cfd806a651be2c4d236d.hot-update.json",
-      "size": 35,
+      "name": "index.html",
+      "size": 1809,
       "chunks": [],
       "chunkNames": [],
       "info": {
-        "hotModuleReplacement": true,
-        "immutable": true,
-        "size": 35
+        "size": 1809
       },
       "emitted": true
     },
@@ -56,7 +54,7 @@
       "info": {
         "size": 6806
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/js/0.chunk.js.map",
@@ -69,7 +67,7 @@
         "development": true,
         "size": 5511
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/js/bundle.js",
@@ -102,7 +100,7 @@
     },
     {
       "name": "static/js/main.chunk.js",
-      "size": 39229,
+      "size": 39275,
       "chunks": [
         "main"
       ],
@@ -110,13 +108,13 @@
         "main"
       ],
       "info": {
-        "size": 39229
+        "size": 39275
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/js/main.chunk.js.map",
-      "size": 16762,
+      "size": 16820,
       "chunks": [
         "main"
       ],
@@ -125,9 +123,9 @@
       ],
       "info": {
         "development": true,
-        "size": 16762
+        "size": 16820
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/js/vendors~main.chunk.js",
@@ -141,7 +139,7 @@
       "info": {
         "size": 1648601
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/js/vendors~main.chunk.js.map",
@@ -156,7 +154,7 @@
         "development": true,
         "size": 1744898
       },
-      "emitted": false
+      "emitted": true
     },
     {
       "name": "static/media/logo.1045dea4.svg",
@@ -167,7 +165,7 @@
         "immutable": true,
         "size": 2635
       },
-      "emitted": false
+      "emitted": true
     }
   ],
   "filteredAssets": 0,
@@ -212,7 +210,7 @@
   "chunks": [
     {
       "id": 0,
-      "rendered": false,
+      "rendered": true,
       "initial": false,
       "entry": false,
       "size": 5778,
@@ -239,7 +237,7 @@
           "index2": 51,
           "size": 5778,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -307,10 +305,10 @@
     },
     {
       "id": "main",
-      "rendered": false,
+      "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 24445,
+      "size": 24491,
       "names": [
         "main"
       ],
@@ -318,7 +316,7 @@
         "static/js/main.chunk.js",
         "static/js/main.chunk.js.map"
       ],
-      "hash": "6abaab7af7b7b747b110",
+      "hash": "e289f9ef082970303866",
       "siblings": [
         "runtime-main",
         "vendors~main"
@@ -336,7 +334,7 @@
           "index": 0,
           "index2": 50,
           "size": 64,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -371,7 +369,7 @@
           "index2": 41,
           "size": 1920,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -450,7 +448,7 @@
           "index2": 47,
           "size": 1337,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -524,7 +522,7 @@
           "index2": 43,
           "size": 628,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -603,7 +601,7 @@
           "index2": 42,
           "size": 2021,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -717,7 +715,7 @@
           "index2": 48,
           "size": 2027,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -819,7 +817,7 @@
           "index2": 38,
           "size": 74,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -886,7 +884,7 @@
           "index2": 44,
           "size": 2090,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -938,7 +936,7 @@
           "name": "./src/modules/module-b/message-list.tsx",
           "index": 38,
           "index2": 37,
-          "size": 3405,
+          "size": 3451,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -995,7 +993,7 @@
           ],
           "optimizationBailout": [],
           "depth": 3,
-          "source": "$RefreshRuntime$ = require('/Users/yangguang/Documents/Study/my-app/node_modules/react-refresh/runtime.js');\n$RefreshSetup$(module.id);\n\nvar _jsxFileName = \"/Users/yangguang/Documents/Study/my-app/src/modules/module-b/message-list.tsx\";\nimport React, { Component } from 'react';\nimport { jsxDEV as _jsxDEV } from \"react/jsx-dev-runtime\";\n\nclass loginFooter extends Component {\n  constructor(props) {\n    super(props);\n    this.state = {};\n  }\n\n  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa() {// const xxaa = {\n    //   a: 'xxx',\n    //   aa_aa: 'aaa'\n    // };\n    // console.log(xxaa);\n  }\n\n  render() {\n    return /*#__PURE__*/_jsxDEV(\"div\", {\n      onClick: this.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,\n      className: \"aa\",\n      children: \"aaa\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 23,\n      columnNumber: 7\n    }, this);\n  }\n\n}\n\nexport default loginFooter;\n\nconst currentExports = __react_refresh_utils__.getModuleExports(module.id);\n__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.id);\n\nif (module.hot) {\n  const isHotUpdate = !!module.hot.data;\n  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;\n\n  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {\n    module.hot.dispose(\n      /**\n       * A callback to performs a full refresh if React has unrecoverable errors,\n       * and also caches the to-be-disposed module.\n       * @param {*} data A hot module data object from Webpack HMR.\n       * @returns {void}\n       */\n      function hotDisposeCallback(data) {\n        // We have to mutate the data object to get data registered and cached\n        data.prevExports = currentExports;\n      }\n    );\n    module.hot.accept(\n      /**\n       * An error handler to allow self-recovering behaviours.\n       * @param {Error} error An error occurred during evaluation of a module.\n       * @returns {void}\n       */\n      function hotErrorHandler(error) {\n        if (\n          typeof __react_refresh_error_overlay__ !== 'undefined' &&\n          __react_refresh_error_overlay__\n        ) {\n          __react_refresh_error_overlay__.handleRuntimeError(error);\n        }\n\n        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {\n          if (window.onHotAcceptError) {\n            window.onHotAcceptError(error.message);\n          }\n        }\n\n        __webpack_require__.c[module.id].hot.accept(hotErrorHandler);\n      }\n    );\n\n    if (isHotUpdate) {\n      if (\n        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&\n        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)\n      ) {\n        module.hot.invalidate();\n      } else {\n        __react_refresh_utils__.enqueueUpdate(\n          /**\n           * A function to dismiss the error overlay after performing React refresh.\n           * @returns {void}\n           */\n          function updateCallback() {\n            if (\n              typeof __react_refresh_error_overlay__ !== 'undefined' &&\n              __react_refresh_error_overlay__\n            ) {\n              __react_refresh_error_overlay__.clearRuntimeErrors();\n            }\n          }\n        );\n      }\n    }\n  } else {\n    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {\n      module.hot.invalidate();\n    }\n  }\n}"
+          "source": "$RefreshRuntime$ = require('/Users/yangguang/Documents/Study/my-app/node_modules/react-refresh/runtime.js');\n$RefreshSetup$(module.id);\n\nvar _jsxFileName = \"/Users/yangguang/Documents/Study/my-app/src/modules/module-b/message-list.tsx\";\nimport React, { Component } from 'react';\nimport { jsxDEV as _jsxDEV } from \"react/jsx-dev-runtime\";\n\nclass loginFooter extends Component {\n  constructor(props) {\n    super(props);\n    this.state = {};\n  }\n\n  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa() {\n    // const xxaa = {\n    //   a: 'xxx',\n    //   aa_aa: 'aaa'\n    // };\n    // console.log(xxaa);\n    const a = 'xxx';\n    console.log(a);\n  }\n\n  render() {\n    return /*#__PURE__*/_jsxDEV(\"div\", {\n      onClick: this.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,\n      className: \"aa\",\n      children: \"aaa\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 25,\n      columnNumber: 7\n    }, this);\n  }\n\n}\n\nexport default loginFooter;\n\nconst currentExports = __react_refresh_utils__.getModuleExports(module.id);\n__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.id);\n\nif (module.hot) {\n  const isHotUpdate = !!module.hot.data;\n  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;\n\n  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {\n    module.hot.dispose(\n      /**\n       * A callback to performs a full refresh if React has unrecoverable errors,\n       * and also caches the to-be-disposed module.\n       * @param {*} data A hot module data object from Webpack HMR.\n       * @returns {void}\n       */\n      function hotDisposeCallback(data) {\n        // We have to mutate the data object to get data registered and cached\n        data.prevExports = currentExports;\n      }\n    );\n    module.hot.accept(\n      /**\n       * An error handler to allow self-recovering behaviours.\n       * @param {Error} error An error occurred during evaluation of a module.\n       * @returns {void}\n       */\n      function hotErrorHandler(error) {\n        if (\n          typeof __react_refresh_error_overlay__ !== 'undefined' &&\n          __react_refresh_error_overlay__\n        ) {\n          __react_refresh_error_overlay__.handleRuntimeError(error);\n        }\n\n        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {\n          if (window.onHotAcceptError) {\n            window.onHotAcceptError(error.message);\n          }\n        }\n\n        __webpack_require__.c[module.id].hot.accept(hotErrorHandler);\n      }\n    );\n\n    if (isHotUpdate) {\n      if (\n        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&\n        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)\n      ) {\n        module.hot.invalidate();\n      } else {\n        __react_refresh_utils__.enqueueUpdate(\n          /**\n           * A function to dismiss the error overlay after performing React refresh.\n           * @returns {void}\n           */\n          function updateCallback() {\n            if (\n              typeof __react_refresh_error_overlay__ !== 'undefined' &&\n              __react_refresh_error_overlay__\n            ) {\n              __react_refresh_error_overlay__.clearRuntimeErrors();\n            }\n          }\n        );\n      }\n    }\n  } else {\n    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {\n      module.hot.invalidate();\n    }\n  }\n}"
         },
         {
           "id": "./src/reportWebVitals.ts",
@@ -1108,7 +1106,7 @@
     },
     {
       "id": "vendors~main",
-      "rendered": false,
+      "rendered": true,
       "initial": true,
       "entry": false,
       "reason": "split chunk (cache group: vendors) (name: vendors~main)",
@@ -1139,7 +1137,7 @@
           "index2": 9,
           "size": 493,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1192,7 +1190,7 @@
           "index2": 6,
           "size": 512,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1241,7 +1239,7 @@
           "index2": 24,
           "size": 5755,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1317,7 +1315,7 @@
           "index2": 10,
           "size": 314,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1371,7 +1369,7 @@
           "index2": 40,
           "size": 2517,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1475,7 +1473,7 @@
           "index2": 2,
           "size": 14291,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1529,7 +1527,7 @@
           "index2": 13,
           "size": 15653,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1583,15 +1581,15 @@
           "index2": 26,
           "size": 2226,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
             "vendors~main"
           ],
-          "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react.development.js",
-          "issuerId": "./node_modules/react/cjs/react.development.js",
-          "issuerName": "./node_modules/react/cjs/react.development.js",
+          "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+          "issuerId": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+          "issuerName": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
           "issuerPath": [
             {
               "id": 0,
@@ -1604,14 +1602,14 @@
               "name": "./src/index.tsx"
             },
             {
-              "id": "./node_modules/react/index.js",
-              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/index.js",
-              "name": "./node_modules/react/index.js"
+              "id": "./node_modules/react/jsx-dev-runtime.js",
+              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/jsx-dev-runtime.js",
+              "name": "./node_modules/react/jsx-dev-runtime.js"
             },
             {
-              "id": "./node_modules/react/cjs/react.development.js",
-              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react.development.js",
-              "name": "./node_modules/react/cjs/react.development.js"
+              "id": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+              "name": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js"
             }
           ],
           "failed": false,
@@ -1660,7 +1658,7 @@
           "index2": 21,
           "size": 5081,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1714,7 +1712,7 @@
           "index2": 15,
           "size": 2532,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1773,7 +1771,7 @@
           "index2": 16,
           "size": 2541,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1832,7 +1830,7 @@
           "index2": 17,
           "size": 126,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1886,7 +1884,7 @@
           "index2": 20,
           "size": 3848,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1935,7 +1933,7 @@
           "index2": 19,
           "size": 329,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -1984,7 +1982,7 @@
           "index2": 11,
           "size": 154,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2033,7 +2031,7 @@
           "index2": 25,
           "size": 445,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2109,7 +2107,7 @@
           "index2": 23,
           "size": 8148,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2162,7 +2160,7 @@
           "index2": 33,
           "size": 980465,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2216,7 +2214,7 @@
           "index2": 34,
           "size": 1352,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2274,7 +2272,7 @@
           "index2": 22,
           "size": 377457,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2332,7 +2330,7 @@
           "index2": 7,
           "size": 23198,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2348,9 +2346,9 @@
               "name": "multi ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.tsx"
             },
             {
-              "id": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-              "name": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js"
+              "id": "./src/index.tsx",
+              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+              "name": "./src/index.tsx"
             },
             {
               "id": "./node_modules/react-refresh/runtime.js",
@@ -2386,15 +2384,15 @@
           "index2": 8,
           "size": 221,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
             "vendors~main"
           ],
-          "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "issuerId": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "issuerName": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
+          "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+          "issuerId": "./src/index.tsx",
+          "issuerName": "./src/index.tsx",
           "issuerPath": [
             {
               "id": 0,
@@ -2402,9 +2400,9 @@
               "name": "multi ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.tsx"
             },
             {
-              "id": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-              "name": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js"
+              "id": "./src/index.tsx",
+              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+              "name": "./src/index.tsx"
             }
           ],
           "failed": false,
@@ -2480,7 +2478,7 @@
           "index2": 35,
           "size": 41615,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2534,7 +2532,7 @@
           "index2": 27,
           "size": 79754,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2588,7 +2586,7 @@
           "index2": 28,
           "size": 189,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2700,7 +2698,7 @@
           "index2": 36,
           "size": 221,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2823,7 +2821,7 @@
               "moduleName": "./src/modules/module-b/message-list.tsx",
               "type": "harmony import specifier",
               "userRequest": "react/jsx-dev-runtime",
-              "loc": "22:24-31"
+              "loc": "25:24-31"
             }
           ],
           "providedExports": null,
@@ -2839,7 +2837,7 @@
           "index2": 31,
           "size": 10145,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2903,7 +2901,7 @@
           "index2": 29,
           "size": 19579,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -2967,7 +2965,7 @@
           "index2": 30,
           "size": 197,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3026,7 +3024,7 @@
           "index2": 32,
           "size": 213,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3085,7 +3083,7 @@
           "index2": 39,
           "size": 6827,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3157,7 +3155,7 @@
           "index2": 18,
           "size": 22776,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3206,7 +3204,7 @@
           "index2": 14,
           "size": 315,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3260,7 +3258,7 @@
           "index2": 5,
           "size": 475,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3323,7 +3321,7 @@
           "index2": 12,
           "size": 546,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3382,7 +3380,7 @@
           "index2": 4,
           "size": 1673,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3426,7 +3424,7 @@
           "index2": 3,
           "size": 75,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3475,7 +3473,7 @@
           "index2": 1,
           "size": 1346,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3524,7 +3522,7 @@
           "index2": 0,
           "size": 1406,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -3596,7 +3594,7 @@
       "index": null,
       "index2": null,
       "size": 52,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [],
@@ -3628,7 +3626,7 @@
       "index": 0,
       "index2": 50,
       "size": 64,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3663,7 +3661,7 @@
       "index2": 9,
       "size": 493,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3716,7 +3714,7 @@
       "index2": 6,
       "size": 512,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3765,7 +3763,7 @@
       "index2": 24,
       "size": 5755,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3841,7 +3839,7 @@
       "index2": 10,
       "size": 314,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3895,7 +3893,7 @@
       "index2": 41,
       "size": 1920,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -3974,7 +3972,7 @@
       "index2": 47,
       "size": 1337,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4048,7 +4046,7 @@
       "index2": 43,
       "size": 628,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4127,7 +4125,7 @@
       "index2": 40,
       "size": 2517,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4231,7 +4229,7 @@
       "index2": 2,
       "size": 14291,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4285,7 +4283,7 @@
       "index2": 13,
       "size": 15653,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4339,15 +4337,15 @@
       "index2": 26,
       "size": 2226,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
         "vendors~main"
       ],
-      "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react.development.js",
-      "issuerId": "./node_modules/react/cjs/react.development.js",
-      "issuerName": "./node_modules/react/cjs/react.development.js",
+      "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+      "issuerId": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+      "issuerName": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
       "issuerPath": [
         {
           "id": 0,
@@ -4360,14 +4358,14 @@
           "name": "./src/index.tsx"
         },
         {
-          "id": "./node_modules/react/index.js",
-          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/index.js",
-          "name": "./node_modules/react/index.js"
+          "id": "./node_modules/react/jsx-dev-runtime.js",
+          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/jsx-dev-runtime.js",
+          "name": "./node_modules/react/jsx-dev-runtime.js"
         },
         {
-          "id": "./node_modules/react/cjs/react.development.js",
-          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react.development.js",
-          "name": "./node_modules/react/cjs/react.development.js"
+          "id": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+          "name": "./node_modules/react/cjs/react-jsx-dev-runtime.development.js"
         }
       ],
       "failed": false,
@@ -4416,7 +4414,7 @@
       "index2": 21,
       "size": 5081,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4470,7 +4468,7 @@
       "index2": 15,
       "size": 2532,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4529,7 +4527,7 @@
       "index2": 16,
       "size": 2541,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4588,7 +4586,7 @@
       "index2": 17,
       "size": 126,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4642,7 +4640,7 @@
       "index2": 20,
       "size": 3848,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4691,7 +4689,7 @@
       "index2": 19,
       "size": 329,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4740,7 +4738,7 @@
       "index2": 11,
       "size": 154,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4789,7 +4787,7 @@
       "index2": 25,
       "size": 445,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4865,7 +4863,7 @@
       "index2": 23,
       "size": 8148,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4918,7 +4916,7 @@
       "index2": 33,
       "size": 980465,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -4972,7 +4970,7 @@
       "index2": 34,
       "size": 1352,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5030,7 +5028,7 @@
       "index2": 22,
       "size": 377457,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5088,7 +5086,7 @@
       "index2": 7,
       "size": 23198,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5104,9 +5102,9 @@
           "name": "multi ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.tsx"
         },
         {
-          "id": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "name": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js"
+          "id": "./src/index.tsx",
+          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+          "name": "./src/index.tsx"
         },
         {
           "id": "./node_modules/react-refresh/runtime.js",
@@ -5142,15 +5140,15 @@
       "index2": 8,
       "size": 221,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
         "vendors~main"
       ],
-      "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-      "issuerId": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-      "issuerName": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
+      "issuer": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+      "issuerId": "./src/index.tsx",
+      "issuerName": "./src/index.tsx",
       "issuerPath": [
         {
           "id": 0,
@@ -5158,9 +5156,9 @@
           "name": "multi ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.tsx"
         },
         {
-          "id": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-3!/Users/yangguang/Documents/Study/my-app/node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
-          "name": "./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js"
+          "id": "./src/index.tsx",
+          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/babel-loader/lib/index.js??ref--5-oneOf-2!/Users/yangguang/Documents/Study/my-app/src/index.tsx",
+          "name": "./src/index.tsx"
         }
       ],
       "failed": false,
@@ -5236,7 +5234,7 @@
       "index2": 35,
       "size": 41615,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5290,7 +5288,7 @@
       "index2": 27,
       "size": 79754,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5344,7 +5342,7 @@
       "index2": 28,
       "size": 189,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5456,7 +5454,7 @@
       "index2": 36,
       "size": 221,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5579,7 +5577,7 @@
           "moduleName": "./src/modules/module-b/message-list.tsx",
           "type": "harmony import specifier",
           "userRequest": "react/jsx-dev-runtime",
-          "loc": "22:24-31"
+          "loc": "25:24-31"
         }
       ],
       "providedExports": null,
@@ -5595,7 +5593,7 @@
       "index2": 31,
       "size": 10145,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5659,7 +5657,7 @@
       "index2": 29,
       "size": 19579,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5723,7 +5721,7 @@
       "index2": 30,
       "size": 197,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5782,7 +5780,7 @@
       "index2": 32,
       "size": 213,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5841,7 +5839,7 @@
       "index2": 39,
       "size": 6827,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5913,7 +5911,7 @@
       "index2": 18,
       "size": 22776,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -5962,7 +5960,7 @@
       "index2": 14,
       "size": 315,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6016,7 +6014,7 @@
       "index2": 51,
       "size": 5778,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6076,7 +6074,7 @@
       "index2": 5,
       "size": 475,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6139,7 +6137,7 @@
       "index2": 12,
       "size": 546,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6198,7 +6196,7 @@
       "index2": 4,
       "size": 1673,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6242,7 +6240,7 @@
       "index2": 3,
       "size": 75,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6291,7 +6289,7 @@
       "index2": 1,
       "size": 1346,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6340,7 +6338,7 @@
       "index2": 0,
       "size": 1406,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6398,7 +6396,7 @@
       "index2": 42,
       "size": 2021,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6512,7 +6510,7 @@
       "index2": 48,
       "size": 2027,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6614,7 +6612,7 @@
       "index2": 38,
       "size": 74,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6681,7 +6679,7 @@
       "index2": 44,
       "size": 2090,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -6733,7 +6731,7 @@
       "name": "./src/modules/module-b/message-list.tsx",
       "index": 38,
       "index2": 37,
-      "size": 3405,
+      "size": 3451,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -6790,7 +6788,7 @@
       ],
       "optimizationBailout": [],
       "depth": 3,
-      "source": "$RefreshRuntime$ = require('/Users/yangguang/Documents/Study/my-app/node_modules/react-refresh/runtime.js');\n$RefreshSetup$(module.id);\n\nvar _jsxFileName = \"/Users/yangguang/Documents/Study/my-app/src/modules/module-b/message-list.tsx\";\nimport React, { Component } from 'react';\nimport { jsxDEV as _jsxDEV } from \"react/jsx-dev-runtime\";\n\nclass loginFooter extends Component {\n  constructor(props) {\n    super(props);\n    this.state = {};\n  }\n\n  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa() {// const xxaa = {\n    //   a: 'xxx',\n    //   aa_aa: 'aaa'\n    // };\n    // console.log(xxaa);\n  }\n\n  render() {\n    return /*#__PURE__*/_jsxDEV(\"div\", {\n      onClick: this.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,\n      className: \"aa\",\n      children: \"aaa\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 23,\n      columnNumber: 7\n    }, this);\n  }\n\n}\n\nexport default loginFooter;\n\nconst currentExports = __react_refresh_utils__.getModuleExports(module.id);\n__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.id);\n\nif (module.hot) {\n  const isHotUpdate = !!module.hot.data;\n  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;\n\n  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {\n    module.hot.dispose(\n      /**\n       * A callback to performs a full refresh if React has unrecoverable errors,\n       * and also caches the to-be-disposed module.\n       * @param {*} data A hot module data object from Webpack HMR.\n       * @returns {void}\n       */\n      function hotDisposeCallback(data) {\n        // We have to mutate the data object to get data registered and cached\n        data.prevExports = currentExports;\n      }\n    );\n    module.hot.accept(\n      /**\n       * An error handler to allow self-recovering behaviours.\n       * @param {Error} error An error occurred during evaluation of a module.\n       * @returns {void}\n       */\n      function hotErrorHandler(error) {\n        if (\n          typeof __react_refresh_error_overlay__ !== 'undefined' &&\n          __react_refresh_error_overlay__\n        ) {\n          __react_refresh_error_overlay__.handleRuntimeError(error);\n        }\n\n        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {\n          if (window.onHotAcceptError) {\n            window.onHotAcceptError(error.message);\n          }\n        }\n\n        __webpack_require__.c[module.id].hot.accept(hotErrorHandler);\n      }\n    );\n\n    if (isHotUpdate) {\n      if (\n        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&\n        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)\n      ) {\n        module.hot.invalidate();\n      } else {\n        __react_refresh_utils__.enqueueUpdate(\n          /**\n           * A function to dismiss the error overlay after performing React refresh.\n           * @returns {void}\n           */\n          function updateCallback() {\n            if (\n              typeof __react_refresh_error_overlay__ !== 'undefined' &&\n              __react_refresh_error_overlay__\n            ) {\n              __react_refresh_error_overlay__.clearRuntimeErrors();\n            }\n          }\n        );\n      }\n    }\n  } else {\n    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {\n      module.hot.invalidate();\n    }\n  }\n}"
+      "source": "$RefreshRuntime$ = require('/Users/yangguang/Documents/Study/my-app/node_modules/react-refresh/runtime.js');\n$RefreshSetup$(module.id);\n\nvar _jsxFileName = \"/Users/yangguang/Documents/Study/my-app/src/modules/module-b/message-list.tsx\";\nimport React, { Component } from 'react';\nimport { jsxDEV as _jsxDEV } from \"react/jsx-dev-runtime\";\n\nclass loginFooter extends Component {\n  constructor(props) {\n    super(props);\n    this.state = {};\n  }\n\n  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa() {\n    // const xxaa = {\n    //   a: 'xxx',\n    //   aa_aa: 'aaa'\n    // };\n    // console.log(xxaa);\n    const a = 'xxx';\n    console.log(a);\n  }\n\n  render() {\n    return /*#__PURE__*/_jsxDEV(\"div\", {\n      onClick: this.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,\n      className: \"aa\",\n      children: \"aaa\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 25,\n      columnNumber: 7\n    }, this);\n  }\n\n}\n\nexport default loginFooter;\n\nconst currentExports = __react_refresh_utils__.getModuleExports(module.id);\n__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.id);\n\nif (module.hot) {\n  const isHotUpdate = !!module.hot.data;\n  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;\n\n  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {\n    module.hot.dispose(\n      /**\n       * A callback to performs a full refresh if React has unrecoverable errors,\n       * and also caches the to-be-disposed module.\n       * @param {*} data A hot module data object from Webpack HMR.\n       * @returns {void}\n       */\n      function hotDisposeCallback(data) {\n        // We have to mutate the data object to get data registered and cached\n        data.prevExports = currentExports;\n      }\n    );\n    module.hot.accept(\n      /**\n       * An error handler to allow self-recovering behaviours.\n       * @param {Error} error An error occurred during evaluation of a module.\n       * @returns {void}\n       */\n      function hotErrorHandler(error) {\n        if (\n          typeof __react_refresh_error_overlay__ !== 'undefined' &&\n          __react_refresh_error_overlay__\n        ) {\n          __react_refresh_error_overlay__.handleRuntimeError(error);\n        }\n\n        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {\n          if (window.onHotAcceptError) {\n            window.onHotAcceptError(error.message);\n          }\n        }\n\n        __webpack_require__.c[module.id].hot.accept(hotErrorHandler);\n      }\n    );\n\n    if (isHotUpdate) {\n      if (\n        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&\n        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)\n      ) {\n        module.hot.invalidate();\n      } else {\n        __react_refresh_utils__.enqueueUpdate(\n          /**\n           * A function to dismiss the error overlay after performing React refresh.\n           * @returns {void}\n           */\n          function updateCallback() {\n            if (\n              typeof __react_refresh_error_overlay__ !== 'undefined' &&\n              __react_refresh_error_overlay__\n            ) {\n              __react_refresh_error_overlay__.clearRuntimeErrors();\n            }\n          }\n        );\n      }\n    }\n  } else {\n    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {\n      module.hot.invalidate();\n    }\n  }\n}"
     },
     {
       "id": "./src/reportWebVitals.ts",
@@ -6861,5 +6859,175 @@
       "debug": false
     }
   },
-  "children": []
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "/Users/yangguang/Documents/Study/my-app/dist",
+      "assetsByChunkName": {
+        "HtmlWebpackPlugin_0": "__child-HtmlWebpackPlugin_0"
+      },
+      "assets": [
+        {
+          "name": "__child-HtmlWebpackPlugin_0",
+          "size": 6105,
+          "chunks": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "chunkNames": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": "HtmlWebpackPlugin_0",
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 2010,
+          "names": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "files": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "hash": "a5df05fdbd8094a6c371",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+              "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/html-webpack-plugin/lib/loader.js!/Users/yangguang/Documents/Study/my-app/public/index.html",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+              "index": 0,
+              "index2": 0,
+              "size": 2010,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                "HtmlWebpackPlugin_0"
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "/Users/yangguang/Documents/Study/my-app/node_modules/html-webpack-plugin/lib/loader.js!/Users/yangguang/Documents/Study/my-app/public/index.html",
+                  "loc": "HtmlWebpackPlugin_0"
+                }
+              ],
+              "providedExports": null,
+              "optimizationBailout": [],
+              "depth": 0,
+              "source": "var _ = __non_webpack_require__(\"/Users/yangguang/Documents/Study/my-app/node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n  <head>\\n    <meta charset=\"utf-8\" />\\n    <link rel=\"icon\" href=\"%PUBLIC_URL%/favicon.ico\" />\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\\n    <meta name=\"theme-color\" content=\"#000000\" />\\n    <meta\\n      name=\"description\"\\n      content=\"Web site created using create-react-app\"\\n    />\\n    <link rel=\"apple-touch-icon\" href=\"%PUBLIC_URL%/logo192.png\" />\\n    <!--\\n      manifest.json provides metadata used when your web app is installed on a\\n      user\\'s mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/\\n    -->\\n    <link rel=\"manifest\" href=\"%PUBLIC_URL%/manifest.json\" />\\n    <!--\\n      Notice the use of %PUBLIC_URL% in the tags above.\\n      It will be replaced with the URL of the `public` folder during the build.\\n      Only files inside the `public` folder can be referenced from the HTML.\\n\\n      Unlike \"/favicon.ico\" or \"favicon.ico\", \"%PUBLIC_URL%/favicon.ico\" will\\n      work correctly both with client-side routing and a non-root public URL.\\n      Learn how to configure a non-root public URL by running `npm run build`.\\n    -->\\n    <title>React App</title>\\n  </head>\\n  <body>\\n    <noscript>You need to enable JavaScript to run this app.</noscript>\\n    <div id=\"root\"></div>\\n    <!--\\n      This HTML file is a template.\\n      If you open it directly in the browser, you will see an empty page.\\n\\n      You can add webfonts, meta tags, or analytics to this file.\\n      The build step will place the bundled scripts into the <body> tag.\\n\\n      To begin the development, run `npm start` or `yarn start`.\\n      To create a production bundle, use `npm run build` or `yarn build`.\\n    -->\\n  </body>\\n</html>\\n';\nreturn __p\n})();}}"
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0",
+              "request": "/Users/yangguang/Documents/Study/my-app/node_modules/html-webpack-plugin/lib/loader.js!/Users/yangguang/Documents/Study/my-app/public/index.html",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+          "identifier": "/Users/yangguang/Documents/Study/my-app/node_modules/html-webpack-plugin/lib/loader.js!/Users/yangguang/Documents/Study/my-app/public/index.html",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+          "index": 0,
+          "index2": 0,
+          "size": 2010,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "/Users/yangguang/Documents/Study/my-app/node_modules/html-webpack-plugin/lib/loader.js!/Users/yangguang/Documents/Study/my-app/public/index.html",
+              "loc": "HtmlWebpackPlugin_0"
+            }
+          ],
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 0,
+          "source": "var _ = __non_webpack_require__(\"/Users/yangguang/Documents/Study/my-app/node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n  <head>\\n    <meta charset=\"utf-8\" />\\n    <link rel=\"icon\" href=\"%PUBLIC_URL%/favicon.ico\" />\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\\n    <meta name=\"theme-color\" content=\"#000000\" />\\n    <meta\\n      name=\"description\"\\n      content=\"Web site created using create-react-app\"\\n    />\\n    <link rel=\"apple-touch-icon\" href=\"%PUBLIC_URL%/logo192.png\" />\\n    <!--\\n      manifest.json provides metadata used when your web app is installed on a\\n      user\\'s mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/\\n    -->\\n    <link rel=\"manifest\" href=\"%PUBLIC_URL%/manifest.json\" />\\n    <!--\\n      Notice the use of %PUBLIC_URL% in the tags above.\\n      It will be replaced with the URL of the `public` folder during the build.\\n      Only files inside the `public` folder can be referenced from the HTML.\\n\\n      Unlike \"/favicon.ico\" or \"favicon.ico\", \"%PUBLIC_URL%/favicon.ico\" will\\n      work correctly both with client-side routing and a non-root public URL.\\n      Learn how to configure a non-root public URL by running `npm run build`.\\n    -->\\n    <title>React App</title>\\n  </head>\\n  <body>\\n    <noscript>You need to enable JavaScript to run this app.</noscript>\\n    <div id=\"root\"></div>\\n    <!--\\n      This HTML file is a template.\\n      If you open it directly in the browser, you will see an empty page.\\n\\n      You can add webfonts, meta tags, or analytics to this file.\\n      The build step will place the bundled scripts into the <body> tag.\\n\\n      To begin the development, run `npm start` or `yarn start`.\\n      To create a production bundle, use `npm run build` or `yarn build`.\\n    -->\\n  </body>\\n</html>\\n';\nreturn __p\n})();}}"
+        }
+      ],
+      "filteredModules": 0,
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "HtmlWebpackCompiler"
+    }
+  ]
 }
